@@ -96,9 +96,10 @@
 		6C83710A22EC5E1A00FAB431 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = "";
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
-				ORGANIZATIONNAME = "M'haimdat omar";
+				ORGANIZATIONNAME = "CHESNIKOV ENGINE";
 				TargetAttributes = {
 					6C83711122EC5E1A00FAB431 = {
 						CreatedOnToolsVersion = 10.2.1;
@@ -284,11 +285,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 274RF4F6D5;
-				INFOPLIST_FILE = WhoAreYou/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/FaceDetectChesnikov/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = maxches99.FaceDetect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -302,11 +304,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 274RF4F6D5;
-				INFOPLIST_FILE = WhoAreYou/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/FaceDetectChesnikov/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = maxches99.FaceDetect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
